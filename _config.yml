@@ -123,8 +123,7 @@ content:
       - layout: top-left
         title: Languages
         description: |
-        Python, Django, C/C++, Haskell, JavaScript, Golang, NodeJS, React, SQL,
-        MongoDB, Angular, Typescript
+        Python, Django, C/C++, Haskell, JavaScript, Golang, NodeJS, React, SQL, MongoDB, Angular, Typescript
           
   - title: A Little More About Me
     layout: text
