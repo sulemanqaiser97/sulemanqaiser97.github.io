@@ -52,13 +52,13 @@ content:
         sub_title: Software Engineer
         caption: June 2019 - July 2020
         description: | # this will include new lines to allow paragraphs
-          I worked as a full-stack Web Developer in the MEAN stack. I developed several web apps and interactive front-end components. Technologies: Node.js, Angular, MongoDB, Postgres
+          * Worked as a full-stack Web Developer. I developed end-to-end web applications using the MEAN stack, including the creation of server-side logic, database design and management, and front-end development.
       - layout: left
         title: LUMS
         sub_title: Research Assistant
         caption: Aug 2018 - Dec 2018
         description: | # this will include new lines to allow paragraphs
-          Examined the impact of different Circumvention mechanisms on the online advertising system and researched how anonymity can be preserved while enhancing the relevance of ads.
+          * Examined the impact of different Circumvention mechanisms on the online advertising system and researched how anonymity can be preserved while enhancing the relevance of ads.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
