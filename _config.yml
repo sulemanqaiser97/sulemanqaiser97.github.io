@@ -33,7 +33,7 @@ content:
         caption: March 2022 - Continue
         description: | # this will include new lines to allow paragraphs
           * Designed and implemented serverless solutions using AWS Lambda and API Gateway, improving scalability and availability. 
-          * Designed state machine in AWS Step Functions to orchestrate Lambda functions for efficient, reliable data synchronization between systems, improving performance. 
+          * Designed state machines in AWS Step Functions to orchestrate Lambda functions for efficient, reliable data synchronization between systems, improving performance. 
           * Utilized advanced utility types and parallel processing in TypeScript to improve the efficiency of the synchronization process between different systems. 
           * Utilized Infrastructure as Code (IaC) to write and deploy Lambda functions through API Gateway, streamlining the development process and increasing efficiency. 
           * Implemented comprehensive unit tests using popular testing frameworks such as Jest and Mocha, utilizing TypeScript's strong type checking to ensure test reliability and contributed to increased code coverage and product quality.
