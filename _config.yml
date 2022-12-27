@@ -13,7 +13,7 @@ darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
-github_username:  sulemanqaiser97
+github_username: sulemanqaiser97
 stackoverflow_username: ""
 linkedin_username: sulemanqaiser97
 
@@ -24,10 +24,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Suleman Qaiser. I am a software engineer with 3 years of industry experience in backend development using Node.js, JavaScript,TypeScript, and .NET Core as well as MERN stack. I have expertise in building and maintaining REST APIs,microservices, and serverless architectures, as well as implementing continuous integration and delivery pipelines. I am skilled in troubleshooting and debugging complex issues and follow best coding practices such aswriting clean and well-documented code. I have experience optimizing the performance of applications through techniques including caching, load balancing, scaling, query optimization and database indexing.
 
 
-  **Technologies**: Node.js, AWS, Docker 
+  **Technologies**: Node.js, AWS, Docker
 
 content:
-
   - title: Experience
     layout: list
     content:
@@ -40,7 +39,7 @@ content:
           * Designed state machine in AWS Step Functions to orchestrate Lambda functions for efficient, reliable data synchronization between systems, improving performance. 
           * Utilized advanced utility types and parallel processing in TypeScript to improve the efficiency of the synchronization process between different systems. 
           * Utilized Infrastructure as Code (IaC) to write and deploy Lambda functions through API Gateway, streamlining the development process and increasing efficiency. 
-          * Implemented comprehensive unit tests using popular testing frameworks such as Jest and Mocha, utilizing TypeScript's strong type checking to ensure test reliability and contributed to increased code coverage and product quality. 
+          * Implemented comprehensive unit tests using popular testing frameworks such as Jest and Mocha, utilizing TypeScript's strong type checking to ensure test reliability and contributed to increased code coverage and product quality.
       - layout: left
         title: CureMD
         sub_title: Software Engineer
@@ -50,21 +49,20 @@ content:
           * Refactored the lab order service to an event-driven architecture and implemented secure RESTful APIs, improving communication efficiency, system reliability, and scalability. 
           * Designed schemas for Lab Codes in the central code repository using Elasticsearch to improve the performance and maintainability of the order placement process. 
           * Improved database query performance through indexing and optimized query structures, reducing data retrieval time and improving system performance. 
-          * Developed components as an independent module for reusability across the application in Angular with TypeScript and implemented RXJS (reactive extension) for using Observable sequences to allow async data streams. 
+          * Developed components as an independent module for reusability across the application in Angular with TypeScript and implemented RXJS (reactive extension) for using Observable sequences to allow async data streams.
       - layout: left
         title: Remote Work
-        sub_title: Software Engineer 
-        caption: June 2019 - July 2020 
+        sub_title: Software Engineer
+        caption: June 2019 - July 2020
         description: | # this will include new lines to allow paragraphs
           I worked as a full-stack Web Developer in the MEAN stack. I developed several web apps and interactive front-end components. Technologies: Node.js, Angular, MongoDB, Postgres
-          
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: Optimal Scheduling Solutions for EVs Charging
-        description: | 
+        description: |
           Worked on devising an Optimal Scheduling Solutions for EVs Charging to reduce Grid stress and
           avoid blackouts by analyzing the trends and peak hours in Electric Load datasets provided by LESCO.
       - layout: top-middle
@@ -73,25 +71,22 @@ content:
           Implemented BitTorrent and MapReduce Engine to share files by dividing them into reasonable
           chunks by means of peer-to-peer file sharing (P2P) protocol and processing large data sets in
           parallel across using map and reduce process respectively.
-      - layout: top-middle    
+      - layout: top-middle
         title: Modern Operating Systems Components
         description: |
           Implemented the key components of modern operating systems (thread management,
           multiprogramming, and file systems) in NachOS on a MIPS emulator
-      - layout: top-middle    
+      - layout: top-middle
         title: Web Platform for NGOs
         description: |
           Developed a Web platform named Internee using MERN stack framework for NGOs to assist
           them in locating Volunteers for their events
-      - layout: top-middle    
-        title: Parallel data processing 
+      - layout: top-middle
+        title: Parallel data processing
         description: |
           Used U.S. Census Bureau data to answer real world questions, for swift data manipulation Golang was
           used as it provided framework for effective parallelism; the project was 70% time efficient than
           sequential python script.
-
-          
-
 
   - title: Education
     layout: list
@@ -100,17 +95,16 @@ content:
         title: Lahore University of Management Sciences
         sub_title: BS Computer Science
         caption: 2015 - 2019
-     #   quote: >
+        #   quote: >
         description: | # this will include new lines to allow paragraphs
-         Relevant Courses:
-          - Advanced Programming
-          - Network Security
-          - Topics in Internet Research
-          - Deep Learning
-          - Principles and Techniques of Data Science
-          - Operating Systems
-          - Databases
-
+          Relevant Courses:
+           - Advanced Programming
+           - Network Security
+           - Topics in Internet Research
+           - Deep Learning
+           - Principles and Techniques of Data Science
+           - Operating Systems
+           - Databases
 
   - title: TECHNICAL SKILLS AND EXPERIENCE
     layout: list
@@ -118,20 +112,12 @@ content:
       - layout: top-left
         title: AWS Services
         description: |
-         EC2, S3, Lambda, RDS, DynamoDB, API Gateway, ECS, EKS, Fargate, CloudWatch,
-         CloudTrail, IAM, CodeBuild, CodeDeploy, CloudFormation, SAM 
+          EC2, S3, Lambda, RDS, DynamoDB, API Gateway, ECS, EKS, Fargate, CloudWatch,
+          CloudTrail, IAM, CodeBuild, CodeDeploy, CloudFormation, SAM
       - layout: top-left
         title: Languages
         description: |
-        Python, Django, C/C++, Haskell, JavaScript, Golang, NodeJS, React, SQL, MongoDB, Angular, Typescript
-          
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in software engineering some of my interests/hobbies are:
-       - BasketBall
-       - Table Tennis
-      
+          Python, Django, C/C++, Haskell, JavaScript, Golang, NodeJS, React, SQL, MongoDB, Angular, Typescript
 
 # Footer
 footer_show_references: false
@@ -146,17 +132,18 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
+exclude:
+  [
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
+    "lib/",
+    "scripts/",
+    "docker-compose.yml",
   ]
