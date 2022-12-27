@@ -7,32 +7,29 @@ version: 2
 
 # Personal info
 name: Suleman Qaiser
-title: Software Engineer
+title: Software Engineer (AWS Certified Developer)
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
 github_username: sulemanqaiser97
-stackoverflow_username: ""
+stackoverflow_username: "20874584"
 linkedin_username: sulemanqaiser97
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Suleman Qaiser. I am a software engineer with 3 years of industry experience in backend development using Node.js, JavaScript,TypeScript, and .NET Core as well as MERN stack. I have expertise in building and maintaining REST APIs,microservices, and serverless architectures, as well as implementing continuous integration and delivery pipelines. I am skilled in troubleshooting and debugging complex issues and follow best coding practices such aswriting clean and well-documented code. I have experience optimizing the performance of applications through techniques including caching, load balancing, scaling, query optimization and database indexing.
-
-
-  **Technologies**: Node.js, AWS, Docker
+  Hi, my name is Suleman Qaiser. I am a software engineer with 3 years of industry experience in backend development using Node.js, JavaScript,TypeScript, and .NET Core as well as MERN stack. I have expertise in building and maintaining REST APIs,microservices, and serverless architectures using AWS services, as well as implementing continuous integration and delivery pipelines. I am skilled in troubleshooting and debugging complex issues and follow best coding practices such aswriting clean and well-documented code. I have experience optimizing the performance of applications through techniques including caching, load balancing, scaling, query optimization and database indexing.
 
 content:
   - title: Experience
     layout: list
     content:
       - layout: left
-        title: Software Engineer
-        sub_title: Tintash
+        title: Tintash
+        sub_title: Software Engineer - Serverless
         caption: March 2022 - Continue
         description: | # this will include new lines to allow paragraphs
           * Designed and implemented serverless solutions using AWS Lambda and API Gateway, improving scalability and availability. 
@@ -55,7 +52,13 @@ content:
         sub_title: Software Engineer
         caption: June 2019 - July 2020
         description: | # this will include new lines to allow paragraphs
-          I worked as a full-stack Web Developer in the MEAN stack. I developed several web apps and interactive front-end components. Technologies: Node.js, Angular, MongoDB, Postgres
+          I worked as a full-stack Web Developer in the MEAN stack. I developed several web apps and interactive front-end components. Technologies: Node.js, Angular, MongoDB, Postgres.
+       - layout: left
+        title: LUMS
+        sub_title: Research Assistant
+        caption: Aug 2018 - Dec 2018
+        description: | # this will include new lines to allow paragraphs
+          Examined the impact of different Circumvention mechanisms on the online advertising system and researched how anonymity can be preserved while enhancing the relevance of ads.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -112,7 +115,7 @@ content:
       - layout: top-left
         title: AWS Services
         description: |
-          EC2, S3, Lambda, RDS, DynamoDB, API Gateway, ECS, EKS, Fargate, CloudWatch,
+          EC2, S3, Lambda, RDS, DynamoDB, API Gateway, SQS, SNS, ECS, EKS, Fargate, CloudWatch,
           CloudTrail, IAM, CodeBuild, CodeDeploy, CloudFormation, SAM
       - layout: top-left
         title: Languages
