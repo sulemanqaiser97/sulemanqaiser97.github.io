@@ -37,6 +37,8 @@ content:
           * Utilized advanced utility types and parallel processing in TypeScript to improve the efficiency of the synchronization process between different systems. 
           * Utilized Infrastructure as Code (IaC) to write and deploy Lambda functions through API Gateway, streamlining the development process and increasing efficiency. 
           * Implemented comprehensive unit tests using popular testing frameworks such as Jest and Mocha, utilizing TypeScript's strong type checking to ensure test reliability and contributed to increased code coverage and product quality.
+
+          -Technologies: Lambda, Step Functions, Serverless Framework, NodeJS, Typescript, Javascript, MySQL, Sequelize
       - layout: left
         title: CureMD
         sub_title: Software Engineer
@@ -47,6 +49,8 @@ content:
           * Designed schemas for Lab Codes in the central code repository using Elasticsearch to improve the performance and maintainability of the order placement process. 
           * Improved database query performance through indexing and optimized query structures, reducing data retrieval time and improving system performance. 
           * Developed components as an independent module for reusability across the application in Angular with TypeScript and implemented RXJS (reactive extension) for using Observable sequences to allow async data streams.
+
+          -Technologies: Amazon Web Services (AWS) · MySQL · MongoDB · Object-Relational Mapping (ORM) · JavaScript · Angular Material · Angular · .NET Core · Reactive Programming · TypeScript, Elastic Search
       - layout: left
         title: Remote Work
         sub_title: Software Engineer
