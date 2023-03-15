@@ -21,7 +21,7 @@ linkedin_username: sulemanqaiser97
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Suleman Qaiser. I am a software engineer with 3 years of industry experience in backend development using Node.js, JavaScript,TypeScript, and .NET Core as well as MERN stack. I have expertise in building and maintaining REST APIs,microservices, and serverless architectures using AWS services, as well as implementing continuous integration and delivery pipelines. I am skilled in troubleshooting and debugging complex issues and follow best coding practices such aswriting clean and well-documented code. I have experience optimizing the performance of applications through techniques including caching, load balancing, scaling, query optimization and database indexing.
+  Hi, my name is Suleman Qaiser. I am a software engineer with 3 years of industry experience in backend development using Node.js, JavaScript,TypeScript, and .NET Core as well as MERN stack and blockchain technologies. I have expertise in building and maintaining REST APIs,microservices, and serverless architectures using AWS services, as well as implementing continuous integration and delivery pipelines. I am skilled in troubleshooting and debugging complex issues and follow best coding practices such aswriting clean and well-documented code. I have experience optimizing the performance of applications through techniques including caching, load balancing, scaling, query optimization and database indexing.
 
 content:
   - title: Experience
@@ -34,13 +34,14 @@ content:
         description: | # this will include new lines to allow paragraphs
 
 
-          * MyWordPal Project
+
+          - title: MyWordPal Project
           * Led the discovery phase by conducting client interviews and requirements analysis, ensuring project objectives aligned with client expectations and laying the foundation for a successful project.
           * Devised and implemented a high-performance backend architecture using NestJS and RDS PostgreSQL database, optimizing data storage and retrieval processes, and supporting seamless user experience.
           * Deployed the application on AWS Elastic Beanstalk, leveraging its scalability and manageability, and configured CI/CD pipelines to automate build, test, and deployment processes, resulting in increased efficiency and reduced time-to-market.
           * Fostered effective communication and collaboration between development, design, and product teams, ensuring timely project delivery and high-quality outputs.
 
-          * CourseKey Project
+          - title: CourseKey Project
           * Designed and implemented serverless solutions using AWS Lambda and API Gateway, improving scalability and availability. 
           * Designed state machines in AWS Step Functions to orchestrate Lambda functions for efficient, reliable data synchronization between systems, improving performance. 
           * Utilized advanced utility types and parallel processing in TypeScript to improve the efficiency of the synchronization process between different systems. 
