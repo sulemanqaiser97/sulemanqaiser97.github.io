@@ -32,12 +32,13 @@ content:
         sub_title: Software Engineer - Serverless
         caption: March 2022 - Continue
         description: | # this will include new lines to allow paragraphs
-          * <strong>Project: MyWordPal</strong>
+          * <strong>MyWordPal Project</strong><br>
           * Led the discovery phase by conducting client interviews and requirements analysis, ensuring project objectives aligned with client expectations and laying the foundation for a successful project.
           * Devised and implemented a high-performance backend architecture using NestJS and RDS PostgreSQL database, optimizing data storage and retrieval processes, and supporting seamless user experience.
           * Deployed the application on AWS Elastic Beanstalk, leveraging its scalability and manageability, and configured CI/CD pipelines to automate build, test, and deployment processes, resulting in increased efficiency and reduced time-to-market.
           * Fostered effective communication and collaboration between development, design, and product teams, ensuring timely project delivery and high-quality outputs.
 
+          * <strong>CourseKey Project</strong><br>
           * Designed and implemented serverless solutions using AWS Lambda and API Gateway, improving scalability and availability. 
           * Designed state machines in AWS Step Functions to orchestrate Lambda functions for efficient, reliable data synchronization between systems, improving performance. 
           * Utilized advanced utility types and parallel processing in TypeScript to improve the efficiency of the synchronization process between different systems. 
@@ -50,8 +51,11 @@ content:
         sub_title: Software Engineer
         caption: August 2020 - March 2022
         description: | # this will include new lines to allow paragraphs
+          * <strong>LabOrder Project</strong><br>
           * Applied agile development methodologies and collaborated with the product management team to deliver new features and functionality, including translating business requirements into technical solutions and contributing to design and implementation efforts. 
           * Refactored the lab order service to an event-driven architecture and implemented secure RESTful APIs, improving communication efficiency, system reliability, and scalability. 
+
+          * <strong>Treatment Plan Project</strong><br>
           * Designed schemas for Lab Codes in the central code repository using Elasticsearch to improve the performance and maintainability of the order placement process. 
           * Improved database query performance through indexing and optimized query structures, reducing data retrieval time and improving system performance. 
           * Developed components as an independent module for reusability across the application in Angular with TypeScript and implemented RXJS (reactive extension) for using Observable sequences to allow async data streams.
