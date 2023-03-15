@@ -34,15 +34,14 @@ content:
         description: | # this will include new lines to allow paragraphs
 
 
-
-
-          * Project:  MyWordPal
+          - layout: top
+            title: MyWordPal
           * Led the discovery phase by conducting client interviews and requirements analysis, ensuring project objectives aligned with client expectations and laying the foundation for a successful project.
           * Devised and implemented a high-performance backend architecture using NestJS and RDS PostgreSQL database, optimizing data storage and retrieval processes, and supporting seamless user experience.
           * Deployed the application on AWS Elastic Beanstalk, leveraging its scalability and manageability, and configured CI/CD pipelines to automate build, test, and deployment processes, resulting in increased efficiency and reduced time-to-market.
           * Fostered effective communication and collaboration between development, design, and product teams, ensuring timely project delivery and high-quality outputs.
 
-          - Project : CourseKey
+          * Project : CourseKey
           * Designed and implemented serverless solutions using AWS Lambda and API Gateway, improving scalability and availability. 
           * Designed state machines in AWS Step Functions to orchestrate Lambda functions for efficient, reliable data synchronization between systems, improving performance. 
           * Utilized advanced utility types and parallel processing in TypeScript to improve the efficiency of the synchronization process between different systems. 
